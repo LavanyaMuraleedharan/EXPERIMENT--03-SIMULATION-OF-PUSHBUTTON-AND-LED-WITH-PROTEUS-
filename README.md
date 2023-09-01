@@ -194,10 +194,10 @@ void SystemClock_Config(void)
 
 
 ## Output screen shots of proteus  :
-#LED OFF
+## LED OFF
 ![image](https://github.com/LavanyaMuraleedharan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120103862/7337a752-05c9-4e00-b063-4f3bb365eaa9)
 
-#LED ON:
+## LED ON:
 ![image](https://github.com/LavanyaMuraleedharan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120103862/62ba44a3-6da8-4575-95c8-e74bca590d35)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
